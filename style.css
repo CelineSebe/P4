@@ -427,7 +427,7 @@ nav .caret {
 }
 
 .dropdown-menu .dropdown span {
-    border: 4px solid black;
+    border: 4px solid #FFFFFF;
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
@@ -820,6 +820,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.jpg");
+    border: none;
 }
 
 .bg-presentation {
