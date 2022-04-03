@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0;
     padding: 0;
@@ -820,7 +822,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere_mod.jpg");
-    border: none;
+
 }
 
 .bg-presentation {
