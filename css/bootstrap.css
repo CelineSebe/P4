@@ -157,7 +157,7 @@ html input[type=button],
 input[type=reset],
 input[type=submit] {
     -webkit-appearance: button;
-    cursor: pointer
+    cursor: pointer;
 }
 
 button[disabled],
@@ -257,8 +257,8 @@ th {
     }
     blockquote,
     pre {
-        border: 1px solid #999;
-        page-break-inside: avoid
+        border: 1px solid rgb(75, 75, 75);
+        page-break-inside: avoid;
     }
     thead {
         display: table-header-group
